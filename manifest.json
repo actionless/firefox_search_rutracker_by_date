@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "search_rutracker",
-	"version": "0.1",
-	"description": "Search Rutracker",
+	"version": "0.2.1",
+	"description": "Search Rutracker (by date)",
 
 	"icons": {
 		"48": "icons/icon.png",

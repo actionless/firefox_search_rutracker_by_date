@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-XPI_NAME=search_bulbapedia.xpi
+XPI_NAME=search_rutracker.xpi
 
 if [ -f "$XPI_NAME" ] ; then
 	rm "$XPI_NAME"

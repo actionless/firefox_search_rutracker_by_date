@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "search_bulbapedia",
+	"name": "search_rutracker",
 	"version": "0.1",
-	"description": "Search Bulbapedia",
+	"description": "Search Rutracker",
 
 	"icons": {
 		"48": "icons/icon.png",
@@ -11,10 +11,10 @@
 
 	"chrome_settings_overrides": {
 	  "search_provider": {
-		"name": "Search Bulbapedia",
-		"search_url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={searchTerms}",
-		"keyword": "b",
-		"favicon_url": "https://bulbapedia.bulbagarden.net/favicon.ico"
+		"name": "Rutracker (by date)",
+		"search_url": "https://rutracker.org/forum/tracker.php?nm={searchTerms}",
+		"keyword": "r",
+		"favicon_url": "https://rutracker.org/favicon.ico"
 	  }
 	}
 

@@ -16,6 +16,12 @@
 		"keyword": "r",
 		"favicon_url": "/icons/favicon.ico"
 	  }
-	}
+	},
 
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "{d06e5a21-e577-406f-bdb2-cf8dcaf99c29}",
+			"strict_min_version": "106.0"
+		}
+	}
 }

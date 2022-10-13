@@ -1,7 +1,7 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "search_rutracker",
-	"version": "0.2.1",
+	"version": "0.3",
 	"description": "Search Rutracker (by date)",
 
 	"icons": {
@@ -14,7 +14,7 @@
 		"name": "Rutracker (by date)",
 		"search_url": "https://rutracker.org/forum/tracker.php?nm={searchTerms}",
 		"keyword": "r",
-		"favicon_url": "https://rutracker.org/favicon.ico"
+		"favicon_url": "/icons/favicon.ico"
 	  }
 	}
 
